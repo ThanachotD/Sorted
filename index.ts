@@ -15,7 +15,9 @@ interface Colecctions {
     }
     return collectionMerge.data;
   }
-
+//const dataFirst = { data: [22, 6, 7, 8, 3, 4, 6, 3] };
+//const dataSecond = { data: [4, 5, 6] };
+//console.log(mergeSort(dataFirst, dataSecond).join(", "));
 export default mergeSort;
   
  
